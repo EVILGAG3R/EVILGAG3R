@@ -1,50 +1,34 @@
-# Hey ![wave], I'm Antoine "enimaloc"
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is EVILGAGER
+=================================================================================================================================
 
-I'm currently a student in **Computer Science** at **Le Mans University**. I'm working on some project in multiples
-languages.
+A little French DEV
+-------------------
 
-[![discord]](https://discord.com/users/608339232586465294)
-## My tools
+* 🌍  I'm based in French
+* ✉️  You can contact me at [proevilgager@gmail.com](mailto:proevilgager@gmail.com)
+* 🧠  I'm learning Python and Java
 
-### Languages
-![java] ![python]
-
-### Integrated Development Environment
-![intelliJ] ![pycharm]
-
-<!-- Icons -->
-[wave]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@1.1.0/icons/gifs/wave.gif
-
-<!-- Badges -->
-[issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg
-[issueClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg
-
-[prOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg
-[prClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg
-[prMerged]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg
-
-[comment]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg
-
-[changesRequested]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg
-[approved]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg
-
-[repoCreated]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg
-[newRelease]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg
-[star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
-[wiki]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg
-[fork]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
-[people]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg
-
-<!-- Meta Badge -->
-[junit5]: https://img.shields.io/badge/JUnit5-323330?style=for-the-badge&logo=junit5
-
-<!--- https://github.com/alexandresanlim/Badges4-README.md-Profile#-group- -->
-[discord]: https://img.shields.io/badge/Discord-323330?style=for-the-badge&logo=discord
-
-<!--- https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages- -->
-[java]: https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java
-[python]: https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python
+### Skills
 
 
-[intelliJ]: https://img.shields.io/badge/IntelliJIDEA-323330.svg?style=for-the-badge&logo=intellij-idea
-[pycharm]: https://img.shields.io/badge/PyCharm-323330.svg?&style=for-the-badge&logo=PyCharm
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/608339232586465294" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/EVILGAG3R" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/EVILGAG3R"><img src="https://github-readme-stats.vercel.app/api?username=EVILGAG3R&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="EVILGAG3R's GitHub stats" /></a>
+
+<a href="http://www.github.com/EVILGAG3R"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=EVILGAG3R&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/EVILGAG3R" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVILGAG3R&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
