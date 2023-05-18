@@ -13,27 +13,6 @@ languages.
 ![intelliJ] ![pycharm]
 
 <details>
-<summary>My activity on Github</summary>
-
-<!--RECENT_ACTIVITY:last_update-->
-> Last Updated: 18/05 14:28 (Europe/Paris)
-<!--RECENT_ACTIVITY:last_update_end-->
-<!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [emcf/engshell](https://github.com/emcf/engshell)
-2. ![prMerged] Merged PR [`#64`](https://github.com/tower-defense-L2/projet-L2/pull/64) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-3. ![approved] Approved [`#53`](https://github.com/tower-defense-L2/projet-L2/pull/53#pullrequestreview-1372705846) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-4. ![changesRequested] Request changes on [`#53`](https://github.com/tower-defense-L2/projet-L2/pull/53#pullrequestreview-1372684666) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-5. ![approved] Approved [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1371039636) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-6. ![approved] Approved [`#53`](https://github.com/tower-defense-L2/projet-L2/pull/53#pullrequestreview-1370985875) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-7. ![changesRequested] Request changes on [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1370982624) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-8. ![changesRequested] Request changes on [`#57`](https://github.com/tower-defense-L2/projet-L2/pull/57#pullrequestreview-1370982624) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-9. ![changesRequested] Request changes on [`#55`](https://github.com/tower-defense-L2/projet-L2/pull/55#pullrequestreview-1370976443) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-10. ![changesRequested] Request changes on [`#55`](https://github.com/tower-defense-L2/projet-L2/pull/55#pullrequestreview-1370976443) in [tower-defense-L2/projet-L2](https://github.com/tower-defense-L2/projet-L2)
-<!--RECENT_ACTIVITY:end-->
-
-</details>
-
-<details>
 <summary>Statistic about me</summary>
 
 <p align="center">
