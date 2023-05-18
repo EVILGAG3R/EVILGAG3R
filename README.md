@@ -12,36 +12,6 @@ languages.
 ### Integrated Development Environment
 ![intelliJ] ![pycharm]
 
-<details>
-<summary>Statistic about me</summary>
-
-<p align="center">
-<a href="https://wakatime.com/@enimaloc">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=enimaloc&theme=dark&hide_border=true&hide_title=true&layout=compact" alt="enimaloc's wakatime stats">
-</a>
-</p>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C589%20hrs%2018%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 17.0 kB Used in GitHub's Storage 
- > 
-> 🏆 148 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 40 Public Repositories 
- > 
-> 🔑 17 Private Repositories 
- > 
-
- Last Updated on 18/05/2023 12:30:19 UTC
-<!--END_SECTION:waka-->
-
-</details>
-
 <!-- Icons -->
 [wave]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@1.1.0/icons/gifs/wave.gif
 
@@ -74,21 +44,7 @@ languages.
 <!--- https://github.com/alexandresanlim/Badges4-README.md-Profile#-languages- -->
 [java]: https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java
 [python]: https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python
-[php]: https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php
-[javascript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript
-[html5]: https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5
-[css3]: https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3
 
-<!--- https://github.com/alexandresanlim/Badges4-README.md-Profile#-database- -->
-[mysql]: https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql
-[sqlite]: https://img.shields.io/badge/SQLite-323330?style=for-the-badge&logo=sqlite
 
-<!--- https://github.com/alexandresanlim/Badges4-README.md-Profile#-frameworks- -->
-[markdown]: https://img.shields.io/badge/Markdown-323330?style=for-the-badge&logo=markdown
-[docker]: https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker
-
-<!--- https://github.com/alexandresanlim/Badges4-README.md-Profile#-ide- -->
 [intelliJ]: https://img.shields.io/badge/IntelliJIDEA-323330.svg?style=for-the-badge&logo=intellij-idea
 [pycharm]: https://img.shields.io/badge/PyCharm-323330.svg?&style=for-the-badge&logo=PyCharm
-[phpstorm]: http://img.shields.io/badge/-PHPStorm-323330?style=for-the-badge&logo=phpstorm
-[webstorm]: https://img.shields.io/badge/WebStorm-323330?style=for-the-badge&logo=WebStorm
